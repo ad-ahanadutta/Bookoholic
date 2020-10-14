@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bookoholic/static/css/main.9b7cd8de.chunk.css",
+    "main.js": "/Bookoholic/static/js/main.97f263c0.chunk.js",
+    "main.js.map": "/Bookoholic/static/js/main.97f263c0.chunk.js.map",
+    "runtime-main.js": "/Bookoholic/static/js/runtime-main.3138a426.js",
+    "runtime-main.js.map": "/Bookoholic/static/js/runtime-main.3138a426.js.map",
+    "static/js/2.bee72a61.chunk.js": "/Bookoholic/static/js/2.bee72a61.chunk.js",
+    "static/js/2.bee72a61.chunk.js.map": "/Bookoholic/static/js/2.bee72a61.chunk.js.map",
+    "index.html": "/Bookoholic/index.html",
+    "precache-manifest.bf06431dda03e2cd0059f88acdd29a9b.js": "/Bookoholic/precache-manifest.bf06431dda03e2cd0059f88acdd29a9b.js",
+    "service-worker.js": "/Bookoholic/service-worker.js",
+    "static/css/main.9b7cd8de.chunk.css.map": "/Bookoholic/static/css/main.9b7cd8de.chunk.css.map",
+    "static/js/2.bee72a61.chunk.js.LICENSE.txt": "/Bookoholic/static/js/2.bee72a61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3138a426.js",
+    "static/js/2.bee72a61.chunk.js",
+    "static/css/main.9b7cd8de.chunk.css",
+    "static/js/main.97f263c0.chunk.js"
+  ]
+}
